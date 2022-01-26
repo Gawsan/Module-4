@@ -54,3 +54,10 @@ a:hover {
 a:active {
     color: blue;
 }
+
+
+.box{
+  color:red;
+  background:black;
+}
+  
